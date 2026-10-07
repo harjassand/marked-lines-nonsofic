@@ -1,0 +1,31 @@
+{
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "title": "A Torsion-Free Nonsofic Hyperbolic Group from Marked Lines",
+  "creators": [
+    {
+      "name": "Anonymous"
+    }
+  ],
+  "description": "<p>Candidate proof, not externally peer reviewed. The manuscript asserts the existence of a torsion-free nonsofic word-hyperbolic group with a finite two-dimensional classifying space carrying a locally CAT(-1) metric. The new ingredient is a quantitative rank obstruction for approximate permutation actions, uniform in the permutation degree. A separate five-dimensional incidence construction supplies the geometric data by a terminating finite search; the full presentation at the stated parameters has not been materialized.</p><p>The marked-line construction, triangle wiring, interpolation identity, fixed-prime rank comparison, exceptional-set method, and exact finite-quotient rank obstruction are inherited from OpenAI family 252 and credited in the manuscript. Classical mathematical sources are also cited there.</p><p>Disclosure: the mathematical derivation and manuscript were produced with substantial assistance from OpenAI language models. The human contact has not independently certified every argument. Released without a named mathematical author. The depositor serves as correspondence contact and makes no claim to personal mathematical authorship. Contact: harjas.sandhu@student.uq.edu.au.</p><p>Corrections and adversarial scrutiny are welcome. Please identify the version, theorem, lemma or equation, and the disputed step. Independent mathematical development is welcome; preserve attribution to the inherited sources.</p><p>The archived package contains the compiled PDF and standalone LaTeX source. This is manuscript version 1, first released on 7 October 2026.</p><p><a href=\"https://github.com/harjassand/marked-lines-nonsofic/releases/download/v1.0/main.pdf\">Read the PDF</a> · <a href=\"https://github.com/harjassand/marked-lines-nonsofic/releases/tag/v1.0\">Original version 1 release</a></p>",
+  "publication_date": "2026-10-07",
+  "version": "1.0",
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "language": "eng",
+  "keywords": [
+    "sofic groups",
+    "hyperbolic groups",
+    "marked lines",
+    "rank obstruction",
+    "candidate proof"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/harjassand/marked-lines-nonsofic/releases/download/v1.0/main.pdf",
+      "relation": "isIdenticalTo",
+      "scheme": "url",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
