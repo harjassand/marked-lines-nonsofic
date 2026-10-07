@@ -1,0 +1,1 @@
+Candidate proof: a torsion-free nonsofic word-hyperbolic group from OpenAI family 252's marked lines. New ingredient: a rank obstruction for approximate permutation actions. Not externally peer reviewed. Expert scrutiny and corrections welcome. https://github.com/harjassand/marked-lines-nonsofic/releases/tag/v1.0
