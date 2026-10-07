@@ -2,6 +2,8 @@
 
 Version 1 - 7 October 2026. **Candidate proof, not externally peer reviewed.**
 
+Permanent archive: [DOI 10.5281/zenodo.23207765](https://doi.org/10.5281/zenodo.23207765).
+
 The manuscript asserts that there exists a torsion-free word-hyperbolic group
 that is not sofic and has a finite two-dimensional classifying space with a
 locally CAT(-1) metric. It also asserts that some fixed nonidentity element
